@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Andrés Montero.
 - 👀 I’m interested in finance, development and growth economics, macroeconomics, computational economics, econometrics, and predictions.
 - 🌱 I’m currently learning AI and how to implement it to Economics.
-- 💞️ I’m looking to collaborate on AI model projects and economics related projects.
+- 💞️ I’m working in some webdev projects that you can find in my repositories.
 - 📫 Contact me by email or my social media.
   juanandres.montero@outlook.com
 <!---
